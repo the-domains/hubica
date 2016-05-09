@@ -1,0 +1,28 @@
+name: hubica
+favicon: null
+layout_spectrum: 0.3016768707893789
+typography_spectrum: 0.2873644463252276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.06688380404375494
+  lightness: 0.9123462629504502
+  saturation: 0.4771634649951011
+  rhythmicContrast: 0.40239741327241063
+purpose: []
