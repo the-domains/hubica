@@ -6,10 +6,10 @@ color:
     - '#64361C'
     - '#DBA022'
     - '#007799'
-  brandStrength: 0.06688380404375494
-  lightness: 0.9123462629504502
-  rhythmicContrast: 0.40239741327241063
-  saturation: 0.4771634649951011
+  brandStrength: 0.336349
+  lightness: 0.912346
+  rhythmicContrast: 0.402397
+  saturation: 0.477163
 cta: {}
 layout_spectrum: 1
 name: hubica
