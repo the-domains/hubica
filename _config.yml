@@ -1,4 +1,19 @@
-analytics: {}
+name: Bring Your Kid To Work Day
+favicon: null
+layout_spectrum: 0.485197
+typography_spectrum: 0.318257
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#ADB7B6'
@@ -8,11 +23,6 @@ color:
     - '#007799'
   brandStrength: 0.336349
   lightness: 0.912346
-  rhythmicContrast: 0.402397
   saturation: 0.477163
-cta: {}
-layout_spectrum: 0.485197
-name: Bring Your Kid To Work Day
-opengraph: {}
+  rhythmicContrast: 0.402397
 purpose: []
-typography_spectrum: 0.318257
